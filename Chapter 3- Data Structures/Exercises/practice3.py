@@ -1,0 +1,5 @@
+names=['Einstein', 'Newton', 'Copernicus', 'Kepler']
+
+#loop
+for name in names:
+    print(name)

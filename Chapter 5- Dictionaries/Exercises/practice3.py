@@ -1,0 +1,9 @@
+my_info = {
+    "First Name":"Khadija",
+    "Last Name":"Hassan",
+    "age":19,
+    "Hobby":"Drawing"
+}
+
+for value in my_info.values():
+    print(value)

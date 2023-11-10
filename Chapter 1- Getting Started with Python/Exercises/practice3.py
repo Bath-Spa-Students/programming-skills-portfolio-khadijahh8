@@ -1,4 +1,4 @@
-#you need to make a program for a leader board.The program needs to output the numbers 1 to 9 , each 
+#The program needs to output the numbers 1 to 9 , each in a line.
 print("""
 1.
 2.

@@ -1,0 +1,14 @@
+# use input to take input form user
+month = input("Enter the month: ")
+
+#if-elif statements
+if month in ["December","january","February"]:
+    print("It's winter!")
+elif month in ["March","April","May"]:
+    print ("It's spring!")
+elif month in ["June","July","August"]:
+    print("It's summer!")
+elif month in ["September","October","November"]:
+    print ("It's autumn!")
+else:
+    print("Invalid month or input.")

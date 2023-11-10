@@ -44,13 +44,13 @@ to your glossary.When you run your program again, these new words and meanings s
 
 ## Exercise 4: Rivers :ballot_box_with_check:
 
-Make a dictionary containing three major rivers and the country each river runs through. One key-value pair might be 'nile': 'egypt'.
+ a dictionary containing three major rivers and the country each river runs through. One key-value pair might be 'nile': 'egypt'.
 
 * Use a loop to print a sentence about each river, such as The Nile runs through Egypt.
 
 * Use a loop to print the name of each river included in the dictionary.
 
-* Use a loop to print the name of each country included in the dictionary.
+* Use a loop to print the name of each country iMakencluded in the dictionary.
 
 &nbsp;
 &nbsp;

@@ -1,4 +1,5 @@
 my_friend={'name':'lojin',
-           'last name':'mohammed',
+           'last_name':'mohammed',
+           'age':'18',
            'city':'cairo'}
 
